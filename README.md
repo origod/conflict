@@ -1,2 +1,2 @@
-# conflict
-コンフリクトの練習
+# README
+GitHabで編集しました
